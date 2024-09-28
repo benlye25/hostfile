@@ -417,3 +417,32 @@
 0.0.0.0	onclickperformance.com
 0.0.0.0	pl15225579.profitablegatetocontent.com
 0.0.0.0	nossairt.net
+
+## 28 Sept 2024
+0.0.0.0 go.mnaspm.com
+0.0.0.0 yn.driasstichos.top
+0.0.0.0 enniesstrigil.shop
+0.0.0.0 lelq.ljybybyoyzbev.top
+0.0.0.0 bhfzva2a9k.sea-encircled.christmas
+0.0.0.0 qs.monieraldim.click
+0.0.0.0 cu.tanagersavor.click
+0.0.0.0 gi.cgmdarrein.top
+0.0.0.0 zq.shallalflexors.top
+0.0.0.0 vupteerairs.net
+0.0.0.0 vzez.veoojoozmzokz.top
+0.0.0.0 yr.tetrixtokelau.click
+0.0.0.0 ak.ardssandshrewon.com
+0.0.0.0 hy.markkasmick.click
+0.0.0.0 fi.kabargrouchy.click
+0.0.0.0 twinrdsyn.com
+0.0.0.0 fractionfridgejudiciary.com
+0.0.0.0 ly.feigherreed.click
+0.0.0.0 ak.infeebasr.com
+0.0.0.0 pshtop.com
+0.0.0.0 ak.phaunaitsi.net
+0.0.0.0 la.porosebugler.shop
+0.0.0.0 psuteemsou.net
+0.0.0.0 rentersscaup.shop
+0.0.0.0 ak.whookroo.com
+0.0.0.0 familiarpyromaniasloping.com
+## end
