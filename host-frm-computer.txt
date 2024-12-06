@@ -1,3 +1,9 @@
+#Updated 2 Dec 2024
+0.0.0.0 zi.jarinadimmers.click
+0.0.0.0 s3.ap-southeast-1.wasabisys.com
+0.0.0.0 pengteaboy.shop
+0.0.0.0 peritosusa.top
+0.0.0.0 xapi.juicyads.com
 0.0.0.0 troolytop.com
 0.0.0.0 ak.zougreek.com
 0.0.0.0 rk.castilecoring.top
